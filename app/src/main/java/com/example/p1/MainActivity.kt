@@ -60,6 +60,7 @@ class MainActivity : ComponentActivity() {
             })
             {
                 Text(text = "Add")
+                Text(text = "Add")
             }
             }
             LazyColumn {
